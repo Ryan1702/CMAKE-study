@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.15)
+project(calc)
+file(GLOB SRC ./*.cpp)
+set(LIBRARY_OUTPUT_PATH ../lib)
+add_library(calc STATIC ${SRC})

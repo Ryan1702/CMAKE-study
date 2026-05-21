@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.15)
+project(test)
+add_subdirectory(calc)
+add_subdirectory(check)
+add_subdirectory(app)

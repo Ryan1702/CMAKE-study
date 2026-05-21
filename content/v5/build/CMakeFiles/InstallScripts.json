@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/wuwei/Desktop/cmake/content/v5/build/cmake_install.cmake",
+		"/Users/wuwei/Desktop/cmake/content/v5/build/calc/cmake_install.cmake",
+		"/Users/wuwei/Desktop/cmake/content/v5/build/check/cmake_install.cmake",
+		"/Users/wuwei/Desktop/cmake/content/v5/build/app/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

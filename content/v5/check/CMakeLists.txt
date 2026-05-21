@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.15)
+project(check)
+file(GLOB SRC ./*.cpp)
+set(LIBRARY_OUTPUT_PATH ../lib)
+add_library(check STATIC ${SRC})

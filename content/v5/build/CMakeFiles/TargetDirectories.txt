@@ -1,0 +1,11 @@
+/Users/wuwei/Desktop/cmake/content/v5/build/CMakeFiles/edit_cache.dir
+/Users/wuwei/Desktop/cmake/content/v5/build/CMakeFiles/rebuild_cache.dir
+/Users/wuwei/Desktop/cmake/content/v5/build/calc/CMakeFiles/calc.dir
+/Users/wuwei/Desktop/cmake/content/v5/build/calc/CMakeFiles/edit_cache.dir
+/Users/wuwei/Desktop/cmake/content/v5/build/calc/CMakeFiles/rebuild_cache.dir
+/Users/wuwei/Desktop/cmake/content/v5/build/check/CMakeFiles/check.dir
+/Users/wuwei/Desktop/cmake/content/v5/build/check/CMakeFiles/edit_cache.dir
+/Users/wuwei/Desktop/cmake/content/v5/build/check/CMakeFiles/rebuild_cache.dir
+/Users/wuwei/Desktop/cmake/content/v5/build/app/CMakeFiles/app.dir
+/Users/wuwei/Desktop/cmake/content/v5/build/app/CMakeFiles/edit_cache.dir
+/Users/wuwei/Desktop/cmake/content/v5/build/app/CMakeFiles/rebuild_cache.dir

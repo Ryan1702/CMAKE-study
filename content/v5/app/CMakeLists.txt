@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.15)
+project(app)
+file(GLOB SRC ./*.cpp)
+link_directories(../lib)
+link_libraries(calc check)
+set(EXECUTABLE_OUTPUT_PATH ../bin)
+add_executable(app ${SRC})
