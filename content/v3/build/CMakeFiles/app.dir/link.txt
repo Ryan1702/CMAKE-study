@@ -1,1 +1,1 @@
-/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/app.dir/main.cpp.o -o /Users/wuwei/Desktop/cmake/v3/app   -L/Users/wuwei/Desktop/cmake/v3/lib1  -Wl,-rpath,/Users/wuwei/Desktop/cmake/v3/lib1 -lcalc
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/app.dir/main.cpp.o -o /Users/wuwei/Desktop/cmake/content/v3/app   -L/Users/wuwei/Desktop/cmake/content/v3/lib1  -Wl,-rpath,/Users/wuwei/Desktop/cmake/content/v3/lib1 -lcalc

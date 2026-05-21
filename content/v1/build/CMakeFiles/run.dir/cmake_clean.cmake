@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/wuwei/Desktop/cmake/v1/run"
-  "/Users/wuwei/Desktop/cmake/v1/run.pdb"
+  "/Users/wuwei/Desktop/cmake/content/v1/run"
+  "/Users/wuwei/Desktop/cmake/content/v1/run.pdb"
   "CMakeFiles/run.dir/src/add.cpp.o"
   "CMakeFiles/run.dir/src/add.cpp.o.d"
   "CMakeFiles/run.dir/src/main.cpp.o"

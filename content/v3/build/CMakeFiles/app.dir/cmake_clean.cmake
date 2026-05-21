@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/wuwei/Desktop/cmake/v3/app"
-  "/Users/wuwei/Desktop/cmake/v3/app.pdb"
+  "/Users/wuwei/Desktop/cmake/content/v3/app"
+  "/Users/wuwei/Desktop/cmake/content/v3/app.pdb"
   "CMakeFiles/app.dir/main.cpp.o"
   "CMakeFiles/app.dir/main.cpp.o.d"
 )

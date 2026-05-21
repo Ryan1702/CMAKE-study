@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/Users/wuwei/Desktop/cmake/v4/include
+CXX_INCLUDES = -I/Users/wuwei/Desktop/cmake/content/v4/include
 
 CXX_FLAGSarm64 =  -arch arm64
 

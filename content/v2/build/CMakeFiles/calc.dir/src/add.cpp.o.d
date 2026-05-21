@@ -1,5 +1,5 @@
 CMakeFiles/calc.dir/src/add.cpp.o: \
-  /Users/wuwei/Desktop/cmake/v2/src/add.cpp \
+  /Users/wuwei/Desktop/cmake/content/v2/src/add.cpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/iostream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__config \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__config_site \

@@ -53,10 +53,10 @@ RM = /opt/homebrew/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/wuwei/Desktop/cmake/v2
+CMAKE_SOURCE_DIR = /Users/wuwei/Desktop/cmake/content/v2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/wuwei/Desktop/cmake/v2/build
+CMAKE_BINARY_DIR = /Users/wuwei/Desktop/cmake/content/v2/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/calc.dir/depend.make
@@ -73,32 +73,32 @@ CMakeFiles/calc.dir/codegen:
 .PHONY : CMakeFiles/calc.dir/codegen
 
 CMakeFiles/calc.dir/src/add.cpp.o: CMakeFiles/calc.dir/flags.make
-CMakeFiles/calc.dir/src/add.cpp.o: /Users/wuwei/Desktop/cmake/v2/src/add.cpp
+CMakeFiles/calc.dir/src/add.cpp.o: /Users/wuwei/Desktop/cmake/content/v2/src/add.cpp
 CMakeFiles/calc.dir/src/add.cpp.o: CMakeFiles/calc.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/wuwei/Desktop/cmake/v2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/calc.dir/src/add.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/calc.dir/src/add.cpp.o -MF CMakeFiles/calc.dir/src/add.cpp.o.d -o CMakeFiles/calc.dir/src/add.cpp.o -c /Users/wuwei/Desktop/cmake/v2/src/add.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/wuwei/Desktop/cmake/content/v2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/calc.dir/src/add.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/calc.dir/src/add.cpp.o -MF CMakeFiles/calc.dir/src/add.cpp.o.d -o CMakeFiles/calc.dir/src/add.cpp.o -c /Users/wuwei/Desktop/cmake/content/v2/src/add.cpp
 
 CMakeFiles/calc.dir/src/add.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/calc.dir/src/add.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wuwei/Desktop/cmake/v2/src/add.cpp > CMakeFiles/calc.dir/src/add.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wuwei/Desktop/cmake/content/v2/src/add.cpp > CMakeFiles/calc.dir/src/add.cpp.i
 
 CMakeFiles/calc.dir/src/add.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/calc.dir/src/add.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wuwei/Desktop/cmake/v2/src/add.cpp -o CMakeFiles/calc.dir/src/add.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wuwei/Desktop/cmake/content/v2/src/add.cpp -o CMakeFiles/calc.dir/src/add.cpp.s
 
 CMakeFiles/calc.dir/src/sub.cpp.o: CMakeFiles/calc.dir/flags.make
-CMakeFiles/calc.dir/src/sub.cpp.o: /Users/wuwei/Desktop/cmake/v2/src/sub.cpp
+CMakeFiles/calc.dir/src/sub.cpp.o: /Users/wuwei/Desktop/cmake/content/v2/src/sub.cpp
 CMakeFiles/calc.dir/src/sub.cpp.o: CMakeFiles/calc.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/wuwei/Desktop/cmake/v2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/calc.dir/src/sub.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/calc.dir/src/sub.cpp.o -MF CMakeFiles/calc.dir/src/sub.cpp.o.d -o CMakeFiles/calc.dir/src/sub.cpp.o -c /Users/wuwei/Desktop/cmake/v2/src/sub.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/wuwei/Desktop/cmake/content/v2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/calc.dir/src/sub.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/calc.dir/src/sub.cpp.o -MF CMakeFiles/calc.dir/src/sub.cpp.o.d -o CMakeFiles/calc.dir/src/sub.cpp.o -c /Users/wuwei/Desktop/cmake/content/v2/src/sub.cpp
 
 CMakeFiles/calc.dir/src/sub.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/calc.dir/src/sub.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wuwei/Desktop/cmake/v2/src/sub.cpp > CMakeFiles/calc.dir/src/sub.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/wuwei/Desktop/cmake/content/v2/src/sub.cpp > CMakeFiles/calc.dir/src/sub.cpp.i
 
 CMakeFiles/calc.dir/src/sub.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/calc.dir/src/sub.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wuwei/Desktop/cmake/v2/src/sub.cpp -o CMakeFiles/calc.dir/src/sub.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/wuwei/Desktop/cmake/content/v2/src/sub.cpp -o CMakeFiles/calc.dir/src/sub.cpp.s
 
 # Object files for target calc
 calc_OBJECTS = \
@@ -108,15 +108,15 @@ calc_OBJECTS = \
 # External object files for target calc
 calc_EXTERNAL_OBJECTS =
 
-/Users/wuwei/Desktop/cmake/v2/lib/libcalc.dylib: CMakeFiles/calc.dir/src/add.cpp.o
-/Users/wuwei/Desktop/cmake/v2/lib/libcalc.dylib: CMakeFiles/calc.dir/src/sub.cpp.o
-/Users/wuwei/Desktop/cmake/v2/lib/libcalc.dylib: CMakeFiles/calc.dir/build.make
-/Users/wuwei/Desktop/cmake/v2/lib/libcalc.dylib: CMakeFiles/calc.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/wuwei/Desktop/cmake/v2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX shared library /Users/wuwei/Desktop/cmake/v2/lib/libcalc.dylib"
+/Users/wuwei/Desktop/cmake/content/v2/lib/libcalc.dylib: CMakeFiles/calc.dir/src/add.cpp.o
+/Users/wuwei/Desktop/cmake/content/v2/lib/libcalc.dylib: CMakeFiles/calc.dir/src/sub.cpp.o
+/Users/wuwei/Desktop/cmake/content/v2/lib/libcalc.dylib: CMakeFiles/calc.dir/build.make
+/Users/wuwei/Desktop/cmake/content/v2/lib/libcalc.dylib: CMakeFiles/calc.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/wuwei/Desktop/cmake/content/v2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX shared library /Users/wuwei/Desktop/cmake/content/v2/lib/libcalc.dylib"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/calc.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-CMakeFiles/calc.dir/build: /Users/wuwei/Desktop/cmake/v2/lib/libcalc.dylib
+CMakeFiles/calc.dir/build: /Users/wuwei/Desktop/cmake/content/v2/lib/libcalc.dylib
 .PHONY : CMakeFiles/calc.dir/build
 
 CMakeFiles/calc.dir/clean:
@@ -124,6 +124,6 @@ CMakeFiles/calc.dir/clean:
 .PHONY : CMakeFiles/calc.dir/clean
 
 CMakeFiles/calc.dir/depend:
-	cd /Users/wuwei/Desktop/cmake/v2/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/wuwei/Desktop/cmake/v2 /Users/wuwei/Desktop/cmake/v2 /Users/wuwei/Desktop/cmake/v2/build /Users/wuwei/Desktop/cmake/v2/build /Users/wuwei/Desktop/cmake/v2/build/CMakeFiles/calc.dir/DependInfo.cmake "--color=$(COLOR)" calc
+	cd /Users/wuwei/Desktop/cmake/content/v2/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/wuwei/Desktop/cmake/content/v2 /Users/wuwei/Desktop/cmake/content/v2 /Users/wuwei/Desktop/cmake/content/v2/build /Users/wuwei/Desktop/cmake/content/v2/build /Users/wuwei/Desktop/cmake/content/v2/build/CMakeFiles/calc.dir/DependInfo.cmake "--color=$(COLOR)" calc
 .PHONY : CMakeFiles/calc.dir/depend
 
